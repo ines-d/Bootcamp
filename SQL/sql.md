@@ -9,4 +9,4 @@
 
 - Capture d'écran :
 
-![sql](.image_sql/sql.png)
+![sql](./image_sql/sql.png)
